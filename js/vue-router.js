@@ -2629,3 +2629,8 @@ if (inBrowser && window.Vue) {
 return VueRouter;
 
 })));
+
+
+const test22 = () => {
+  console.log('risk22')
+}
