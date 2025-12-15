@@ -21,3 +21,7 @@ date(){
 }
 }
 */
+
+const testTang1 = () => {
+	console.log('testTang1')
+}
